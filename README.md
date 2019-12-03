@@ -7,11 +7,15 @@ printf("Hello, world\n");
 return 0;
 }
 ```
+Hello, world
 
 ```sh
 echo "Hello, world"
 ```
+Hello, world
+
 
 ```python
 print("Hello, world")
 ```
+Hello, world
