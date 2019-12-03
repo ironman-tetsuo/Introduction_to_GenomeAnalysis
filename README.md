@@ -10,3 +10,8 @@ return 0;
 
 ```sh
 echo "Hello, world"
+```
+
+```pydsa
+print("Hello, world")
+```
