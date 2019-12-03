@@ -1,3 +1,3 @@
 # This is basic scripts for analyze fasta
-bash  
-python3  
+[bash.ipynb](./bash.ipynb)  
+[python3.ipynb](./python3.ipynb)  
