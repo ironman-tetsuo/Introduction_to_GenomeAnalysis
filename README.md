@@ -12,6 +12,6 @@ return 0;
 echo "Hello, world"
 ```
 
-```pydsa
+```python
 print("Hello, world")
 ```
