@@ -1,3 +1,3 @@
 # This is basic scripts for analyze fasta
-bash
-python3
+bash  
+python3  
