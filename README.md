@@ -3,6 +3,10 @@ In this repository, I present biref introduction to genomic dna sequence analysi
 ```c
 #include<stdio.h>
 int main(void){
-printf("Hello, world"¥n");
-return 0
+printf("Hello, world\n");
+return 0;
 }
+```
+
+```sh
+echo "Hello, world"
