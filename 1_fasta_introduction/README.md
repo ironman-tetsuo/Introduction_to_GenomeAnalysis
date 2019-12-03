@@ -1,1 +1,1 @@
-#This is basic scripts for analyze fasta
+# This is basic scripts for analyze fasta
