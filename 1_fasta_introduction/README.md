@@ -7,3 +7,8 @@ Basic sequence analysis with bash
 Basic sequence analysis with python   
 
 [python3.ipynb](./python3.ipynb)  
+
+Basic sequence analysis with biopython   
+[biopython.ipynb](./biopython.ipynb)    
+
+
