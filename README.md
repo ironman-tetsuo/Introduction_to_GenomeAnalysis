@@ -1,21 +1,4 @@
 # Introduction_to_GenomeAnalysis
 In this repository, I present biref introduction to genomic dna sequence analysis using bash and python.
-```c
-#include<stdio.h>
-int main(void){
-printf("Hello, world\n");
-return 0;
-}
-```
-Hello, world
 
-```sh
-echo "Hello, world"
-```
-Hello, world
-
-
-```python
-print("Hello, world")
-```
-Hello, world
+[Basic scripts for analyze fasta](1_fasta_introduction/README.md)
